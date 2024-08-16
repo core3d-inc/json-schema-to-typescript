@@ -69,6 +69,10 @@ export interface Options {
    */
   style: PrettierOptions
   /**
+   * TODO: info
+   */
+  tsTypes: Record<string, string>,
+  /**
    * Generate code for `definitions` that aren't referenced by the schema?
    */
   unreachableDefinitions: boolean
@@ -103,6 +107,7 @@ export const DEFAULT_OPTIONS: Options = {
     trailingComma: 'none',
     useTabs: false,
   },
+  tsTypes: {},
   unreachableDefinitions: false,
   unknownAny: true,
 }
