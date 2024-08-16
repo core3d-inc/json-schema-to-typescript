@@ -1,0 +1,1 @@
+{"version":3,"file":"booleanSchema.2.js","sourceRoot":"","sources":["../../../test/e2e/booleanSchema.2.ts"],"names":[],"mappings":";;;AAAa,QAAA,KAAK,GAAG;IACnB,KAAK,EAAE,gCAAgC;IACvC,UAAU,EAAE;QACV,MAAM,EAAE,IAAI;QACZ,KAAK,EAAE,KAAK;KACb;CACF,CAAA;AAEY,QAAA,OAAO,GAAG;IACrB,UAAU,EAAE,KAAK;CAClB,CAAA"}

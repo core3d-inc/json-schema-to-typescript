@@ -1,0 +1,1 @@
+{"version":3,"file":"formatter.js","sourceRoot":"","sources":["../../src/formatter.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,uCAA2C;AAG3C,SAAsB,MAAM,CAAC,IAAY,EAAE,OAAgB;;QACzD,IAAI,CAAC,OAAO,CAAC,MAAM,EAAE,CAAC;YACpB,OAAO,IAAI,CAAA;QACb,CAAC;QACD,OAAO,IAAA,iBAAQ,EAAC,IAAI,kBAAG,MAAM,EAAE,YAAY,IAAK,OAAO,CAAC,KAAK,EAAE,CAAA;IACjE,CAAC;CAAA;AALD,wBAKC"}
